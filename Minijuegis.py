@@ -1,4 +1,4 @@
-# Minijuegos
+# Minijuegos XD
 def minijuegoA(columnaA, columnaB, columnaC, columnaD, i):
     print("| _____ |", columnaB[i], "|", columnaC[i], "|", columnaD[i], "|")
     respuesta = input("Respuesta: ")
